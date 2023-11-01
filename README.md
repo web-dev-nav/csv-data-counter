@@ -8,4 +8,6 @@ Note: You can encounter this error on your local system when when you directly r
 ![error](https://github.com/web-dev-nav/csv-data-counter/assets/110724391/90cdeb45-3b44-407e-a1e2-68c4ddcae8f5)
 
 Change the csv file path and name inside script.js
-   const csvFile = 'open_signuplist.csv'; 
+```js
+const csvFile = 'open_signuplist.csv'; 
+```
